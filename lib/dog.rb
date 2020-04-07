@@ -10,4 +10,5 @@ class Dog
   end 
   def a_bread
     @breed 
+  end
 end 
