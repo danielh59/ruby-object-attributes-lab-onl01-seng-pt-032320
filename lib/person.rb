@@ -10,4 +10,5 @@ def job=(job)
 end 
 def a_job 
   @job 
+end
 end 
