@@ -8,5 +8,6 @@ end
 def job=(job)
   @job = job
 end 
-
+def a_job 
+  @job 
 end 
